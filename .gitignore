@@ -5,7 +5,7 @@ include/config
 include/sdkconfig.h
 build/
 sdkconfig.old
-sdkconfig
+#sdkconfig
 .DS_Store
 
 *.pyc
